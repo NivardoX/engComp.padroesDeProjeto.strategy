@@ -1,0 +1,2 @@
+language = "java10"
+run = "javac AnimalPlay.java && java AnimalPlay"
